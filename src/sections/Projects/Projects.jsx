@@ -20,7 +20,7 @@ function Projects() {
           src={freshBurger} 
           link={'https://github.com/ayushrawat22/Network-Routing-Simulation-using-Dijkstra-s-and-A-Algorithms'} 
           h3="Network Routing Simulator"
-          p="Network Routing Simulator using Dijkstra's and A* algorithm"
+          p="Network Routing Simulator in C++"
         />
         <ProjectCard 
           src={hipsster} 
